@@ -1,6 +1,6 @@
-# Unhinted-iosevka-fixed-ss03 WebFont 17.1.0
+# Unhinted Iosevka Fixed SS03 WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-fixed-ss03/Unhinted-iosevka-fixed-ss03.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka fixed ss03 Web'` or `font-family: 'Unhinted iosevka fixed ss03 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-fixed-ss03/unhinted-iosevka-fixed-ss03.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Fixed SS03 Web'` or `font-family: 'Iosevka Fixed SS03 Web'`.
