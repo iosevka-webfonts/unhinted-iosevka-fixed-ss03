@@ -1,4 +1,4 @@
-# Unhinted Iosevka Fixed SS03 WebFont 22.1.0
+# Unhinted Iosevka Fixed SS03 WebFont 22.1.1
 
 ## How to use
 
